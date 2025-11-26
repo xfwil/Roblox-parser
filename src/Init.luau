@@ -9,8 +9,8 @@ local Module = {
 	Version = "1.0.8",
 	Author = "Depso",
 	License = "GNU-GPLv3",
-	Repository = "https://github.com/depthso/Roblox-parser",
-	ImportUrl = "https://raw.githubusercontent.com/depthso/Roblox-parser/refs/heads/main",
+	Repository = "https://github.com/xfwil/Roblox-parser",
+	ImportUrl = "https://raw.githubusercontent.com/xfwil/Roblox-parser/refs/heads/main",
 
 	Modules = {
 		Formatter = require("@src/Formatter"),
